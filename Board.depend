@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1343512520 source:c:\users\sean\documents\code\board\main.cpp
+	<iostream>
+	"Board.h"
+	"Player.h"
+	<cstdlib>
+	<cstring>
+	<sstream>
+	<ctype.h>
+	<stdio.h>
+
+1333661621 c:\users\sean\documents\code\board\board.cpp
+	"Board.h"
+
+1339783222 c:\users\sean\documents\code\board\board.h
+
+1344728158 source:c:\users\sean\documents\code\board\board.cpp
+	"Board.h"
+	<iostream>
+
+1339727671 source:c:\users\sean\documents\code\board\player.cpp
+	"Player.h"
+	<iostream>
+	<cstring>
+
+1339726027 c:\users\sean\documents\code\board\player.h
+
+1339727671 source:c:\users\sean\documents\github\boardmove\player.cpp
+	"Player.h"
+	<iostream>
+	<cstring>
+
+1339726027 c:\users\sean\documents\github\boardmove\player.h
+
+1343512520 source:c:\users\sean\documents\github\boardmove\main.cpp
+	<iostream>
+	"Board.h"
+	"Player.h"
+	<cstdlib>
+	<cstring>
+	<sstream>
+	<ctype.h>
+	<stdio.h>
+
+1339783222 c:\users\sean\documents\github\boardmove\board.h
+
+1344728158 source:c:\users\sean\documents\github\boardmove\board.cpp
+	"Board.h"
+	<iostream>
+
