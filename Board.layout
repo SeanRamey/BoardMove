@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_layout_file>
 	<ActiveTarget name="Release" />
-	<File name="Board.cpp" open="1" top="0" tabpos="5">
+	<File name="Board.cpp" open="0" top="0" tabpos="5">
 		<Cursor position="537" topLine="0" />
 	</File>
-	<File name="Board.h" open="1" top="0" tabpos="3">
+	<File name="Board.h" open="0" top="0" tabpos="3">
 		<Cursor position="52" topLine="0" />
 	</File>
-	<File name="Player.cpp" open="1" top="0" tabpos="4">
+	<File name="Player.cpp" open="1" top="0" tabpos="2">
 		<Cursor position="315" topLine="0" />
 	</File>
-	<File name="Player.h" open="1" top="0" tabpos="2">
-		<Cursor position="289" topLine="0" />
+	<File name="Player.h" open="1" top="1" tabpos="1">
+		<Cursor position="337" topLine="0" />
 	</File>
-	<File name="main.cpp" open="1" top="1" tabpos="1">
+	<File name="main.cpp" open="0" top="0" tabpos="1">
 		<Cursor position="186" topLine="12" />
 	</File>
 </CodeBlocks_layout_file>
